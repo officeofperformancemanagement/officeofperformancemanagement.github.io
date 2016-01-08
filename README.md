@@ -1,4 +1,6 @@
-See the NYC Innovation and Design Team recruiting site at: http://design4nyc.github.io
+Simple recruiting site for positions with the Office of Performance Management and Open Data within the City of Chattanooga.
+
+Project graciously borrowed from the NYC Innovation and Design Team recruiting site at: http://design4nyc.github.io
 
 This site is built using Twitter Boostrap (http://getbootstrap.com/2.3.2/) and hosted on Github pages (https://pages.github.com/). It is entirely open source and free for you to use and improve upon. 
 
